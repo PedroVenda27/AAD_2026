@@ -7,3 +7,4 @@ Trabalhos práticos da cadeira de Arquiteturas de Alto Desempenho.
 - `P1/` — Laboratório 1: medição de desempenho do MandelbrotCount em várias linguagens (C, Java, Python, Fortran, Rust, WebAssembly, codon)
 - `P2/` — Laboratório 2: paralelização com pthreads (mutexes, condition variables) e 4 versões paralelas do MandelbrotCount (faixas estáticas verticais/horizontais, região crítica, produtor/consumidor)
 - `P3/` — Laboratório 3: paralelização com OpenMP (pragmas, secções críticas, reduction, tasks) e versão paralela do MandelbrotCount com schedule static/dynamic
+- `P4/` — Laboratório 4: sockets TCP/IP num modelo servidor/clientes (separação em x_common/x_server/x_client) e versão distribuída do MandelbrotCount
