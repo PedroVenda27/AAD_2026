@@ -9,3 +9,4 @@ Trabalhos práticos da cadeira de Arquiteturas de Alto Desempenho.
 - `P3/` — Laboratório 3: paralelização com OpenMP (pragmas, secções críticas, reduction, tasks) e versão paralela do MandelbrotCount com schedule static/dynamic
 - `P4/` — Laboratório 4: sockets TCP/IP num modelo servidor/clientes (separação em x_common/x_server/x_client) e versão distribuída do MandelbrotCount
 - `P5/` — Laboratório 5: MPI (mensagens ponto a ponto, deadlock com MPI_Ssend e correções, broadcast de estruturas) e versão MPI do MandelbrotCount (cíclica e mestre/trabalhadores)
+- `P6/` — Laboratório 6: CUDA (runtime e driver API) e OpenCL, filtro de mediana na GPU (tamanhos de bloco, memória managed) e versão CUDA do MandelbrotCount (float/double)
